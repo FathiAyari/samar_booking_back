@@ -1,7 +1,7 @@
 <?php
 
 $databaseHost = '127.0.0.1';
-$databaseName = 'test';
+$databaseName = 'samar';
 $databaseUsername = 'root';
 $databasePassword = '';
 
